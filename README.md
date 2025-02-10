@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ofentse-coder
 - 👀 I’m interested in ..football, anime and movies.
-- 🌱 I’m currently learning ...we dev and mostly interested in programming languages and tools like React.js and Vue.js 
+- 🌱 I’m currently learning ...web dev and mostly interested in programming languages and tools like React.js and Vue.js 
 - 💞️ I’m looking to collaborate on projects that push me to the limit and make me curious to learn more 
 - 📫 How to reach me, my details are all on my profile 
 - 😄 Pronouns: ...
